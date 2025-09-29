@@ -1,6 +1,6 @@
 # CySA+ (CompTIA Cybersecurity Analyst) Preparation
 
-This repository documents my preparation for the **CompTIA CySA+ (CS0-003) certification exam**.  
+This repository documents my preparation for the CompTIA CySA+ (CS0-003) certification exam.  
 It contains study notes, lab exercises, practice write-ups, and tools aligned with the official exam objectives.  
 
 ---
